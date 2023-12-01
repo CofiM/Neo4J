@@ -1,0 +1,17 @@
+.MainPart{
+    display: flex;
+    flex-direction: row;
+}
+
+.viewBook
+{   
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.sideBar
+{
+    width: 20%;
+}

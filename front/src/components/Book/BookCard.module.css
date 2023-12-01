@@ -1,0 +1,15 @@
+.divMain
+{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
+
+.divView
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
